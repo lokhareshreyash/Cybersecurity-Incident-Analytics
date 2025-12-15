@@ -94,11 +94,6 @@ The dashboard enables stakeholders to understand **where incidents occur, how th
 
 ---
 
-## 📷 Dashboard Preview
-![Cybersecurity Incident Analytics Dashboard](./dashboard_screenshot.png)
-
----
-
 ## 🚀 Future Enhancements
 - Add severity-weighted risk scoring
 - Include predictive trend analysis
