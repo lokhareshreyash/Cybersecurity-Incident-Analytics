@@ -42,7 +42,7 @@ The dashboard enables stakeholders to understand **where incidents occur, how th
   - Zero-day Vulnerabilities
 
 ### 🔹 Geographic Analysis
-- Global map showing **number of incidents by country**
+- Global map showing **number of incidents and financial loss in million dollars by country**
 
 ### 🔹 Industry Impact
 - Financial loss distribution across industries such as:
